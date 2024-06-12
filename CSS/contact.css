@@ -1,0 +1,71 @@
+.body{
+    background-color: black;
+    margin: 3px solid goldenrod;
+}
+.col{
+    background-color:black;
+    font-size: 60px;
+    height:120px;
+    color: goldenrod;
+    text-align: center;
+    padding-top: 30px;
+    margin-top:14px;
+    margin-bottom:14px;
+    margin-left: 18px;
+    margin-right: 9px;
+}
+.add{
+    background-color:black;
+    font-size: 25px;
+    height:400px;
+    width:670px;
+    margin-left: 3px;
+    padding-left:13px ;
+    
+}
+.hes{
+    font-size: 34px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:goldenrod;
+    text-align: center;
+    padding-top: 4px;
+
+}
+.hed{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(149, 129, 14);
+    text-align: center;
+   
+}   
+.hef{
+    font-size:20px;
+    color: bisque;
+    text-align: left;
+}
+.heg{
+    font-size:20px;
+    color: bisque;
+    text-align: left;
+}
+.foot{
+    background-color:black;
+    font-size: 30px;
+    height:230px;
+    width: 1355px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top:15px;
+    margin-left: 32px;
+    
+}
+.qry{
+    text-align: left;
+    font-size:60px;
+    color: goldenrod;
+}
+.btn{
+    
+    color:aliceblue;
+    
+}

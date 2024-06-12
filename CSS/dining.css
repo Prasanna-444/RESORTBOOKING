@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(48, 47, 46);
+    
+   
+}
+.A{
+    color:goldenrod;
+    text-align: center;
+     
+    font-size: 30px;
+    
+
+}
+.D{
+    color:goldenrod;
+    
+}
+.E{
+    color:bisque;
+    padding-top: 40px;
+    text-align: center;
+
+}
+.cta{
+    border:1px solid gold;
+}
+.D1{
+    border:2px solid gold;
+    border-style:dotted;
+
+}

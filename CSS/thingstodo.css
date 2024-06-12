@@ -1,0 +1,60 @@
+.col1 {
+    margin: 8px;
+    
+}
+.col1 img a{
+  display: none;
+}
+  .col2 {
+    margin: 8px;
+     }
+  .col3 {
+    margin: 8px;
+  }
+  .col4 {
+    margin: 8px;
+  }
+  .col4 {
+    margin: 8px;
+  }
+  .col5 {
+    margin: 8px;
+  }
+  .col6 {
+    margin: 8px;
+  }
+  .col7 {
+    margin: 8px;
+  }
+  .col9 {
+    margin: 8px;
+  }
+  .col10 {
+    margin: 8px;
+  }
+  .col11 {
+    margin: 8px;
+  }
+  .col12 {
+    margin: 8px;
+  }
+  .col13 {
+    margin: 8px;
+  }
+  .col14{
+    margin: 8px;
+  }
+  .col15 {
+    margin: 8px;
+  }
+  head{
+      color:aquamarine;
+      font-size: 50px;
+      text-align:center;
+      margin-top: 5px;
+  }
+  
+  
+  img a:hover{
+    display: block;
+  }
